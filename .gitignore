@@ -1,0 +1,6 @@
+misc
+.ipynb_checkpoints
+face-expression-recognition-dataset/fer_directory/
+face-expression-recognition-dataset/fer2013/
+face-expression-recognition-dataset/images/
+face-expression-recognition-dataset/icml_face_data.csv.zip
